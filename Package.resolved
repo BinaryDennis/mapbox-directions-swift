@@ -12,11 +12,11 @@
       },
       {
         "package": "Polyline",
-        "repositoryURL": "https://github.com/raphaelmor/Polyline.git",
+        "repositoryURL": "https://github.com/fnazarios/Polyline.git",
         "state": {
-          "branch": null,
-          "revision": "353f80378dcd8f17eefe8550090c6b1ae3c9da23",
-          "version": "5.1.0"
+          "branch": "master",
+          "revision": "88d9ffb47571db318de1196566bd26e44edc3243",
+          "version": null
         }
       },
       {
